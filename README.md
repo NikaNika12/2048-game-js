@@ -2,9 +2,9 @@ JS GAME "2048"
 
 2048 is a single-player sliding block puzzle game. The game’s objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. The project was developed on the basis of the training course "Mate Academy".
 
-DEMO LINK - https://NikaNika12.github.io/2048-js-game/
+DEMO LINK - https://NikaNika12.github.io/2048-game-js/
 
-GITHUB REPOSITORY LINK - https://github.com/NikaNika12/2048-js-game
+GITHUB REPOSITORY LINK - https://github.com/NikaNika12/2048-game-js
 
 Installing and running the project:
 
